@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is the new line
 
 This is the new change for branching concepts
+=======
+second change from remote repo.
+>>>>>>> cb768ca812e5093c029e630a602c46e427f39c7d
