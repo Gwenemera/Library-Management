@@ -1,4 +1,7 @@
 This is the new feature.
 
 
-by using this feature, we can manage the file.
+by using this feature, we can manage the file
+
+
+New lines as per review comments.
